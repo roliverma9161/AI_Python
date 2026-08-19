@@ -1,0 +1,48 @@
+CSS
+=====
+
+
+cascading style sheet
+
+css-3
+
+type
+===========
+1)inline css
+2)internal css
+3)external css
+
+
+property:value;
+
+
+
+
+<p style=" property: value"></p>====inline css hai
+
+
+
+selectors
+=============
+ID=sbhi element me alag alag css dene ka,multiple element same hona      #
+CLASS=multiple class de sakte hai              .
+TAG      <tag_name>
+ATTRBIUTE        attribute name
+GROUP           group name
+                
+UNIVERSAL       *
+
+
+
+div===block label element
+
+
+
+color property==text ke liye hota hai
+
+background color property===box ke liye hota hai
+
+
+
+
+
